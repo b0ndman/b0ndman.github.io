@@ -14,14 +14,14 @@ div {
 h1 {
 	text-align: center;
 	font-weight: bold;
-	font-size: 300%;
+	font-size: 50px;
 	color: black;
 }
 
 .container {
 	/*background-color: grey;*/
 	position: relative;
-	top: 180px;
+	top: 120px;
 	left: 5%;
 	width: 500px;
 	height: 400px;
@@ -40,7 +40,7 @@ h1 {
 
 #twoH {
 	position: relative;
-	top: -23px;
+	top: -25px;
 	left: 40px;
 	z-index: 2;
 }
