@@ -18,13 +18,18 @@ h1 {
 	color: black;
 }
 
+img {
+	height: 30%%;
+	width: 30%;
+}
+
 .container {
 	/*background-color: grey;*/
 	position: relative;
-	top: 120px;
+	top: 50px;
 	left: 5%;
 	width: 500px;
-	height: 400px;
+	height: 550px;
 }
 
 #title {
@@ -50,8 +55,15 @@ h1 {
 	right: 3%;
 	background-color: #e5e4e2;
 	width: 500px;
-	height: 400px;
+	height: 550px;
 	opacity: .6;
 	box-shadow: 5px 10px 10px black;
 	z-index: 1;
+}
+
+#portrait {
+	position: relative;
+	top: -530px;
+	left: 320px;
+	z-index: 2;
 }
