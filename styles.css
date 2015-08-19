@@ -7,17 +7,14 @@ body {
 	display: compact;
 }
 
-div {
-	/*background-color: grey;*/
-}
 
-h1 {
-	text-align: center;
+
+p {
+	text-align: justify;
+	font-family: 'Lato', sans serif;
+	font-size: 15px;
 	font-weight: bold;
-	font-size: 40px;
-	color: black;
 }
-
 .container {
 	/*background-color: grey;*/
 	position: relative;
@@ -27,22 +24,46 @@ h1 {
 	height: 550px;
 }
 
+#text {
+	height: 200px;
+	width: 280px;
+	position: absolute;
+	top: 150px;
+	left: 40px;
+	z-index: 2;
+	/*background-color: orange;*/
+}
+
 #title {
-	position: relative;
-	left: 2%;
+	position: absolute;
+	left: 20px;
+	top: 40px;
+	/*background-color: black;*/
+	height: 100px;
+	width: 300px;
 }
 
 #oneH {
-	position: relative;
-	top: 15px;
+	position: absolute;
+	top: 0px;
 	z-index: 2;
+	text-align: center;
+	font-weight: 900;
+	font-family: 'Droid Sans', sans serif;
+	font-size: 40px;
+	color: black;
 }
 
 #twoH {
-	position: relative;
-	top: -15px;
-	left: 72px;
+	position: absolute;
+	top: 45px;
+	left: 67px;
 	z-index: 2;
+	text-align: center;
+	font-weight: 900;
+	font-family: 'Droid Sans', sans serif;
+	font-size: 20px;
+	color: #666666;
 }
 
 #shadowbox {
@@ -51,7 +72,7 @@ h1 {
 	background-color: #e5e4e2;
 	width: 500px;
 	height: 550px;
-	opacity: .6;
+	opacity: .7;
 	box-shadow: 5px 10px 10px black;
 	z-index: 1;
 }
