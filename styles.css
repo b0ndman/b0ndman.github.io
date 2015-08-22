@@ -1,11 +1,10 @@
-/*body {
+body {
 	background: url('webzene.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	display: compact;
-} */
+} 
 
 
 p {
@@ -64,17 +63,17 @@ p {
 	text-transform: uppercase;
 }
 
-#back {
+/*#back {
 	display: block;
 	z-index: 0;
 	background: url('webzene.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: 100% auto;
-	/*background-color: yellow;*/
+	background-size: cover;
+	/*background-color: yellow;
 	height: 100vh;
-}
+}*/
 
 #text {
 	height: 200px;
