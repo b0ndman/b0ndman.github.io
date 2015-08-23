@@ -10,16 +10,16 @@ body {
 p {
 	text-align: justify;
 	font-family: 'Lato', sans serif;
-	font-size: 15px;
+	font-size: 100%;
 	font-weight: bold;
 }
+
 .container {
-	/*background-color: grey;*/
+	background-color: orange;
 	position: relative;
-	top: 50px;
+	top: 2em;
 	left: 5%;
-	width: 500px;
-	height: 550px;
+	height: 40em;
 }
 
 .hexagon {
@@ -58,22 +58,11 @@ p {
 	height: 34.64px;
 	color: #e5e4e2;
 	font-family: 'Droid Sans', sans serif;
-	font-size: 15px;
+	font-size: 100%;
 	font-weight: bold;
 	text-transform: uppercase;
 }
 
-/*#back {
-	display: block;
-	z-index: 0;
-	background: url('webzene.png') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	/*background-color: yellow;
-	height: 100vh;
-}*/
 
 #text {
 	height: 200px;
@@ -101,7 +90,7 @@ p {
 	text-align: center;
 	font-weight: 900;
 	font-family: 'Droid Sans', sans serif;
-	font-size: 40px;
+	font-size: 300%;
 	color: black;
 }
 
@@ -113,7 +102,7 @@ p {
 	text-align: center;
 	font-weight: 900;
 	font-family: 'Droid Sans', sans serif;
-	font-size: 20px;
+	font-size: 140%;
 	color: #666666;
 }
 
@@ -123,9 +112,10 @@ p {
 	background-color: #e5e4e2;
 	width: 500px;
 	height: 550px;
-	opacity: .7;
+	opacity: 0.7;
 	box-shadow: 5px 10px 10px black;
 	z-index: 1;
+	display: block;
 }
 
 #temp {
