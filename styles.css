@@ -1,5 +1,6 @@
 body {
-	background: url('webzene.png') no-repeat center center fixed;
+	background: url('webzene.png') no-repeat fixed;
+	background-position: 70% 50%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -17,9 +18,10 @@ p {
 .container {
 	/*background-color: orange;*/
 	position: relative;
-	top: 2em;
-	left: 5%;
-	height: 40em;
+	top: 1em;
+	left: 0%;
+	height: 95vh;
+	width: 95vw;
 }
 
 .hexagon {
@@ -76,11 +78,11 @@ p {
 
 #title {
 	position: absolute;
-	left: 20px;
+	left: 5px;
 	top: 40px;
-	/*background-color: black;*/
-	height: 100px;
-	width: 300px;
+	/*background-color: yellow;*/
+	height: 20vh;
+	width: 30vw;
 }
 
 #oneH {
@@ -90,19 +92,19 @@ p {
 	text-align: center;
 	font-weight: 900;
 	font-family: 'Droid Sans', sans serif;
-	font-size: 300%;
+	font-size: 7vh;
 	color: black;
 }
 
 #twoH {
 	position: absolute;
-	top: 45px;
-	left: 67px;
+	top: 7vh;
+	left: 11vw;
 	z-index: 2;
 	text-align: center;
 	font-weight: 900;
 	font-family: 'Droid Sans', sans serif;
-	font-size: 140%;
+	font-size: 2vh;
 	color: #666666;
 }
 
