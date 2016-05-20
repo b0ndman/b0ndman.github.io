@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
 	background: url('webzene.png') no-repeat fixed;
 	background-position: 70% 50%;
@@ -83,7 +82,7 @@ p {
 	top: 40px;
 	/*background-color: yellow;*/
 	height: 20vh;
-	width: 30vw;
+	/*width: 30vw;*/
 }
 
 #oneH {
@@ -100,12 +99,12 @@ p {
 #twoH {
 	position: absolute;
 	top: 7vh;
-	left: 11vw;
+	left: 7vw;
 	z-index: 2;
 	text-align: center;
 	font-weight: 900;
 	font-family: 'Droid Sans', sans serif;
-	font-size: 2vh;
+	font-size: 3vh;
 	color: #666666;
 }
 
@@ -113,144 +112,8 @@ p {
 	position: relative;
 	right: 3%;
 	background-color: #e5e4e2;
-	width: 500px;
-	height: 550px;
-	opacity: 0.7;
-	box-shadow: 5px 10px 10px black;
-	z-index: 1;
-	display: block;
-}
-
-#temp {
-	/*background-color: black;*/
-	color: red;
-	text-align: center;
-	height: 200px;
-	width: 450px;
-}
-
-#portrait {
-	position: relative;
-	top: -530px;
-	left: 320px;
-	z-index: 2;
-=======
-body {
-	background: url('webzene.png') no-repeat fixed;
-	background-position: 70% 50%;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-} 
-
-
-p {
-	text-align: justify;
-	font-family: 'Lato', sans serif;
-	font-size: 100%;
-	font-weight: bold;
-}
-
-.container {
-	/*background-color: orange;*/
-	position: relative;
-	top: 1em;
-	left: 0%;
+	/*width: 500px;*/
 	height: 95vh;
-	width: 95vw;
-}
-
-.hexagon {
-  position: absolute;
-  width: 60px; 
-  height: 34.64px;
-  background-color: #000000;
-  margin: 17.32px 0;
-  z-index: 3;
-}
-
-.hexagon:before,
-.hexagon:after {
-  content: "";
-  position: absolute;
-  width: 0;
-  border-left: 30px solid transparent;
-  border-right: 30px solid transparent;
-}
-
-.hexagon:before {
-  bottom: 100%;
-  border-bottom: 17.32px solid #000000;
-}
-
-.hexagon:after {
-  top: 100%;
-  width: 0;
-  border-top: 17.32px solid #000000;
-}
-
-.button {
-	background: transparent;
-	border: 0 none;
-	width: 60px;
-	height: 34.64px;
-	color: #e5e4e2;
-	font-family: 'Droid Sans', sans serif;
-	font-size: 100%;
-	font-weight: bold;
-	text-transform: uppercase;
-}
-
-
-#text {
-	height: 200px;
-	width: 280px;
-	position: absolute;
-	top: 150px;
-	left: 40px;
-	z-index: 2;
-	/*background-color: orange;*/
-}
-
-#title {
-	position: absolute;
-	left: 5px;
-	top: 40px;
-	/*background-color: yellow;*/
-	height: 20vh;
-	width: 30vw;
-}
-
-#oneH {
-	position: absolute;
-	top: 0px;
-	z-index: 2;
-	text-align: center;
-	font-weight: 900;
-	font-family: 'Droid Sans', sans serif;
-	font-size: 7vh;
-	color: black;
-}
-
-#twoH {
-	position: absolute;
-	top: 7vh;
-	left: 11vw;
-	z-index: 2;
-	text-align: center;
-	font-weight: 900;
-	font-family: 'Droid Sans', sans serif;
-	font-size: 2vh;
-	color: #666666;
-}
-
-#shadowbox {
-	position: relative;
-	right: 3%;
-	background-color: #e5e4e2;
-	width: 500px;
-	height: 550px;
 	opacity: 0.7;
 	box-shadow: 5px 10px 10px black;
 	z-index: 1;
@@ -267,8 +130,7 @@ p {
 
 #portrait {
 	position: relative;
-	top: -530px;
+	top: 530px;
 	left: 320px;
 	z-index: 2;
->>>>>>> origin/master
 }
