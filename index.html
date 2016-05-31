@@ -9,7 +9,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<title>Webpage of the Bondman</title>
 	<link rel="icon" href="benzene icon.ico">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
 		<div class = "container">
@@ -17,7 +16,7 @@
 				<h1 id = "oneH">BONDMAN</h1>
 				<h1 id = "twoH">just another curious mind</h1>
 			</div>
-			<div class = "col-xs-12 col-sm-6 col-md-6 col-lg-6" id = "shadowbox">updated 5.21N <br>not mobile friendly</div>
+			<div class = "col-xs-12 col-sm-10 col-md-6 col-lg-6" id = "shadowbox">updated 5.30N <br>mobile semi-friendly</div>
 			<div id = "portrait"><img src="hexportraitmini.png"></div>
 			<!--<div id = "text">
 				<p>
@@ -44,9 +43,14 @@
 					</h3>
 				</div> 
 			
-			</div>-->
+			</div><!-->
 		</div>
-
+	<script type = "text/javascript">
+		var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+		if(w <= 700){
+		document.getElementById('title').style.top="20vh";
+		}
+	</script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   </body>
