@@ -77,10 +77,10 @@ img {
 	height: 200px;
 	width: 280px;
 	position: absolute;
-	top: 21vh;
+	/*top: 21vh;*/
 	left: 3vw;
 	z-index: 2;
-	/*background-color: orange;*/
+	background-color: orange;
 }
 
 #title {
