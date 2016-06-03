@@ -77,8 +77,8 @@ img {
 	height: 200px;
 	width: 280px;
 	position: absolute;
-	top: 150px;
-	left: 40px;
+	top: 20vh;
+	left: 3vw;
 	z-index: 2;
 	/*background-color: orange;*/
 }
@@ -127,13 +127,6 @@ img {
 	display: block;
 }
 
-#temp {
-	/*background-color: black;*/
-	color: red;
-	text-align: center;
-	height: 200px;
-	width: 450px;
-}
 
 #portrait {
 	position: absolute;
