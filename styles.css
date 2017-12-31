@@ -130,7 +130,7 @@ img {
 
 #portrait {
 	position: absolute;
-	top: 7%
+	top: 7%;
 	left: 30%;
 	z-index: 5;
 }
