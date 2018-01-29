@@ -86,3 +86,9 @@ body {
     border-bottom: 0;
   }
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
