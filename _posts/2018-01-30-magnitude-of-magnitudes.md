@@ -8,7 +8,7 @@ Very recently, an 7.9 magnitude earthquake shook South Central Alaska near Kodia
 
 I will answer these questions in a moment, but I would like to give some background on why I'm writing this post first. I have a certain frustration with the standard American education (and possibly the worldwide standard of education) regarding the difference of treating numbers as numbers and numbers as quantities. xkcd author Randall Monroe has summed up my feelings about the matter quite nicely.
 
-![xkcd 1000 times](/images/1000_times.png)
+![xkcd 1000 times](/images/1000_times.png){: .center-image}
 
 Crude thoughts aside, the message of the comic is not only mathematically true, but it also makes social sense to give proper sense of numbers, as there is probably a non-trivial percentage of the population who don't understand the difference between a million and a billion.
 
