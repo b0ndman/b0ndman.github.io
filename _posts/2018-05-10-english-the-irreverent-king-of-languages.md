@@ -10,11 +10,11 @@ English is a prestigious language. Approximately 35% of the world's economy (by 
 
 Linguistic barriers and gateways, notably by social class, have been seen before. In the Middle Ages, literacy was considered exclusive to nobles, clergymen, and other high ranking societal members. (Yes, literacy is a part of a language. It is the knowledge of how to use/understand a language on a medium other than spoken word.) Those who were literate were able to find work that illiterates could not do. More recently and relevantly, those who speak [African American English](https://en.wikipedia.org/wiki/African-American_English) (AAE) are often prejudiced against because of the "sloppy" sound of this dialect when compared to Standard American English. In the Alaskan context, [Village English](https://nalliq.com/2017/07/03/i-always-you-never-a-celebration-of-village-english/) faces much of the same [problems](http://www.jstor.org/stable/3195721) as AAE. Both are considered "diminished," "misused," or "lazy" types of English, and many believe that neither can be considered a "full" language. Taken from the article cited, this is what two white teachers had to derogatorily say about Village English 
 
-> It's a misuse of English syntax and intonation with English words as in "He
+> _It's a misuse of English syntax and intonation with English words as in "He
 do me. Where it is? or What time it is?" It has a misuse of verb tenses and
 pronouns. "He let me fall" versus "He made me fall." It reverses the order of
 adjectives as in "red, big" instead of "big, red." And idioms are mixed
-up-"blue red and white" instead of "red, white and, blue."
+up-"blue red and white" instead of "red, white and, blue."_
 
 The fact is that both of these languages show as much logic, grammar, and syntax as Standard American English.
 
@@ -26,4 +26,4 @@ Despite the havoc that English has already caused, there is no sign that things 
 
 If you are of a heritage that belongs to an endangered language, do what you can and be patient. Attend meetings, learn how to read, practice speaking. Even speakers native to the language are not experts, as not every English speaker can write like Ernest Hemingway or Shakespeare. We only need to save our world, not the whole world.
 
-Cat aulukekuvki, tamakut cat aulukciqaatgen.  
+_Cat aulukekuvki, tamakut cat aulukciqaatgen._  
