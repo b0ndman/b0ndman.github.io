@@ -6,15 +6,15 @@ date: 2018-05-10
 
 English is a prestigious language. Approximately 35% of the world's economy (by GDP) speaks it, with the largest contributor being the United States, which holds 24% of the global GDP(!); Nine of the [top ten songs of 2017](http://time.com/5034395/top-10-songs-2017/) according to TIME magazine are sung in English; the [four](http://www.pnas.org/content/106/17/6883) most influential science journals are all English; the most important programming languages are all English based; international civil air travel is governed by a form of English. English turns out to be the vertebrae of economy, entertainment, science, engineering, and travel. English holds something that very few others do, and if some one cannot speak English, at all or even very well, then they do not get that "something." In other words, if some one speaks this language in this way, they are allowed far more opportunities than the alternative of not speaking the language. Because of this, English has shown to be an incredibly destructive, irreverent language.
 
->###"If you don't look like me, you are less than me; if you don't sound like me, you are less than me." 
+> ### "If you don't look like me, you are less than me; if you don't sound like me, you are less than me." 
 
 Linguistic barriers and gateways, notably by social class, have been seen before. In the Middle Ages, literacy was considered exclusive to nobles, clergymen, and other high ranking societal members. (Yes, literacy is a part of a language. It is the knowledge of how to use/understand a language on a medium other than spoken word.) Those who were literate were able to find work that illiterates could not do. More recently and relevantly, those who speak [African American English](https://en.wikipedia.org/wiki/African-American_English) (AAE) are often prejudiced against because of the "sloppy" sound of this dialect when compared to Standard American English. In the Alaskan context, [Village English](https://nalliq.com/2017/07/03/i-always-you-never-a-celebration-of-village-english/) faces much of the same [problems](http://www.jstor.org/stable/3195721) as AAE. Both are considered "diminished," "misused," or "lazy" types of English, and many believe that neither can be considered a "full" language. Taken from the article cited, this is what two white teachers had to derogatorily say about Village English 
 
 > It's a misuse of English syntax and intonation with English words as in "He
- do me. Where it is? or What time it is?" It has a misuse of verb tenses and
- pronouns. "He let me fall" versus "He made me fall." It reverses the order of
- adjectives as in "red, big" instead of "big, red." And idioms are mixed
- up-"blue red and white" instead of "red, white and, blue."
+>do me. Where it is? or What time it is?" It has a misuse of verb tenses and
+>pronouns. "He let me fall" versus "He made me fall." It reverses the order of
+>adjectives as in "red, big" instead of "big, red." And idioms are mixed
+>up-"blue red and white" instead of "red, white and, blue."
 
 The fact is that both of these languages show as much logic, grammar, and syntax as Standard American English.
 
