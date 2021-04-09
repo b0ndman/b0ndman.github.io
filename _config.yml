@@ -1,2 +1,4 @@
 name: Baxter Bond
 markdown: kramdown
+
+theme: jekyll-theme-midnight
