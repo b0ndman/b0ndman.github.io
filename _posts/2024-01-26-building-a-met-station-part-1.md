@@ -22,6 +22,6 @@ That being said, with some feedback with some folks over at [the Alaskan Mastodo
 
 Originally, I thought that I was going to use a [Adafruit Feather](https://www.adafruit.com/product/3178), but after looking at all the pins I'll be using, I might use a Metro although I'll lose that nice radio. They're is always muxes, I guess, but that's more designing. I think what I'll do is order the parts then count the wires and decide then.
 
-Whatever I decide on, I know I'll need a few voltage regulators since some things are operating and separate voltages. Also, to try to avoid lightning or just electrical faults in general, optoisolators will be a good idea.
+Whatever I decide on, I know I'll need a few voltage regulators since some things are operating at separate voltages. Also, to try to avoid lightning or just electrical faults in general, optoisolators will be a good idea.
 
 Until next time.
