@@ -16,7 +16,7 @@ That being said, with some feedback with some folks over at [the Alaskan Mastodo
 - barometric pressure: [LPS33HW](https://www.adafruit.com/product/4414) for $13. I'll need to design a case around this, but it's already water resistant. It's also rated to -40. Where I'm at, though, I haven't seen -40 since I'm a bit above the lowest points in the Fairbanks basin. It's a bit of a risk, but it's not as important (to me) as the temperature.
 - pyranometer: [SP-230-SS](https://www.apogeeinstruments.com/sp-230-ss-all-season-heated-pyranometer/) for $230. It's all season and self heated. I might need to design a low gain amplifier though, but op-amps make things so easy.
 - color sensor: [APDS9960](https://www.adafruit.com/product/3595) for $8. It has other things on it, but I just care about the RGB sensor. My thought process with this one is to get an average color of the day. Imagine what 365 colors of the day would look like. Or even the average color of the year.
-- ~~liquid precipitation~~: Turns out they're a big expensive. At least for this first iteration, they're going to be omitted. Sorry, Rick.
+- ~~liquid precipitation~~: Turns out they're a bit expensive. At least for this first iteration, they're going to be omitted. Sorry, Rick.
 - ~~anemometer~~: There's trees where I'm at and the garden is right by a bluff. I also don't want to go above the trees. And zoning. And lightning.
 - ~~GPS~~: As cool as it would be, it just means for math for me. I guess movement from permafrost that or that [earthquake](https://earthquake.alaska.edu/magnitude-53-earthquake-near-salcha-rattles-interior-alaska) would be cool, but I'm just not that interested in it.
 
