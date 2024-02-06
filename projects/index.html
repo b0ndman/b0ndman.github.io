@@ -6,6 +6,6 @@ title: Bax's Projects
 	<ul class="project">
 
 	  {% for post in site.posts %}
-	    <li><a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></li>
+	    <li><span>{{ project.date | date_to_string }}</span> <a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></li>
 	  {% endfor %}
 	</ul>
